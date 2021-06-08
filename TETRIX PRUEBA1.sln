@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TETRIX PRUEBA1", "TETRIX PRUEBA1\TETRIX PRUEBA1.csproj", "{EEF450D5-E322-4A3A-83C8-26870607D5D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF450D5-E322-4A3A-83C8-26870607D5D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF450D5-E322-4A3A-83C8-26870607D5D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF450D5-E322-4A3A-83C8-26870607D5D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF450D5-E322-4A3A-83C8-26870607D5D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764A9C4A-4163-4B4B-BB61-FE6AA71D334A}
+	EndGlobalSection
+EndGlobal
